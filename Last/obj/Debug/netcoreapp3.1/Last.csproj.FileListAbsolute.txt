@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.exe
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.deps.json
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.runtimeconfig.json
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.dll
+C:\Users\hp\Desktop\Last\Last\bin\Debug\netcoreapp3.1\Last.pdb
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.AssemblyInfo.cs
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.dll
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.pdb
+C:\Users\hp\Desktop\Last\Last\obj\Debug\netcoreapp3.1\Last.genruntimeconfig.cache
